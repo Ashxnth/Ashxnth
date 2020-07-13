@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hello!
+Hey there! I'm Ashanth, a Computer Engineering student with a specialization in Software Engineering.
 <!--
 **Ashxnth/Ashxnth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
