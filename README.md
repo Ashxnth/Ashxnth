@@ -1,5 +1,8 @@
-### 👋 Hello!
-Hey there! I'm Ashanth, a Computer Engineering student with a concentration in Software Engineering.
+### Hey! 👋
+- 🌠 Computer Engineering Student at Ryerson University
+- ⚡ Proficient in Python, Java, JavaScript
+- 🌱 Interested in Back-End Development
+- 📫 How to reach me: https://www.linkedin.com/in/ashanth-r
 <!--
 **Ashxnth/Ashxnth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
